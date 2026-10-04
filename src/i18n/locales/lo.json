@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "home": "ໜ້າຫຼັກ",
+    "generate": "ສຣ້າງເພງ",
+    "dashboard": "ຕະຫຼາດ",
+    "login": "ເຂົ້າລະບົບ",
+    "logout": "ອອກຈາກລະບົບ"
+  },
+  "home": {
+    "title": "Vath Studio",
+    "subtitle": "ສຣ້າງເພງ AI ສະ ເມື່ອໃດກໍ່ໄດ້",
+    "description": "ນຳໃຊ້ຄວາມສາມາດຂອງ AI ເພື່ອສຣ້າງເພງທີ່ຫຼາກຫຼາຍ ໂດຍບໍ່ຕ້ອງມີຄວາມຮູ້ດ້ານດົນຕີ",
+    "cta_button": "ເລີ່ມສຣ້າງເພງ",
+    "features": "ຄຸນສົມບັດ"
+  },
+  "generator": {
+    "title": "ສຣ້າງເພງຂອງເຈົ້າ",
+    "prompt_placeholder": "ອະນຸວາດລາຍລະອຽດເພງທີ່ເຈົ້າຕ້ອງການ (ຕົວຢ່າງ: Upbeat pop song about love)",
+    "generate_button": "ສຣ້າງເພງ",
+    "generating": "ກຳລັງສຣ້າງ...",
+    "success": "ສຣ້າງສຳເລັດ!",
+    "error": "ເກີດຂໍ້ຜິດພາດ ກະລຸນາລອງໃໝ່",
+    "song_details": "ລາຍລະອຽດເພງ",
+    "download": "ດາວໂຫຼດ",
+    "edit": "ແກ້ໄຂ"
+  },
+  "dashboard": {
+    "title": "ຕະຫຼາດຂອງຂ້ອຍ",
+    "my_songs": "ເພງຂອງຂ້ອຍ",
+    "create_date": "ວັນທີ່ສຣ້າງ",
+    "duration": "ໄລຍະເວລາ",
+    "actions": "ການ",
+    "no_songs": "ບໍ່ມີເພງໃດໆ ໄປສຣ້າງເພງໃໝ່!",
+    "delete_confirm": "ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລົບເພງນີ້?"
+  },
+  "common": {
+    "loading": "ກຳລັງໂຫຼດ...",
+    "save": "ບັນທຶກ",
+    "cancel": "ຍົກເລີກ",
+    "delete": "ລົບ",
+    "close": "ປິດ",
+    "settings": "ການຕັ້ງຄ່າ"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "home": "Home",
+    "generate": "Generate",
+    "dashboard": "Dashboard",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "home": {
+    "title": "Vath Studio",
+    "subtitle": "Create AI Music Instantly",
+    "description": "Harness the power of AI to generate diverse music without needing music knowledge",
+    "cta_button": "Start Creating",
+    "features": "Features"
+  },
+  "generator": {
+    "title": "Create Your Song",
+    "prompt_placeholder": "Describe the song you want (e.g., Upbeat pop song about love)",
+    "generate_button": "Generate Song",
+    "generating": "Generating...",
+    "success": "Generated Successfully!",
+    "error": "An error occurred. Please try again.",
+    "song_details": "Song Details",
+    "download": "Download",
+    "edit": "Edit"
+  },
+  "dashboard": {
+    "title": "My Dashboard",
+    "my_songs": "My Songs",
+    "create_date": "Created Date",
+    "duration": "Duration",
+    "actions": "Actions",
+    "no_songs": "No songs yet. Create a new one!",
+    "delete_confirm": "Are you sure you want to delete this song?"
+  },
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "close": "Close",
+    "settings": "Settings"
+  }
+}

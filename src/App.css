@@ -1,0 +1,26 @@
+/* Global app styles */
+.gradient-primary {
+  background: linear-gradient(135deg, #6D28D9, #EC4899);
+}
+
+.gradient-dark {
+  background: linear-gradient(135deg, #0F172A, #1E293B);
+}
+
+.glass-effect {
+  background: rgba(15, 23, 42, 0.8);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(226, 232, 240, 0.1);
+}
+
+.btn-primary {
+  @apply bg-primary hover:bg-purple-700 text-white px-6 py-2 rounded-lg transition-all duration-200 font-semibold;
+}
+
+.btn-secondary {
+  @apply bg-secondary hover:bg-pink-600 text-white px-6 py-2 rounded-lg transition-all duration-200 font-semibold;
+}
+
+.card {
+  @apply rounded-lg p-6 glass-effect hover:border-primary/50 transition-all duration-300;
+}
